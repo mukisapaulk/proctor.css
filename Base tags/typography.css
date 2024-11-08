@@ -1,0 +1,50 @@
+/* Here's a comprehensive list of CSS typography elements, which cover a wide range of properties to control fonts, text style, and spacing.
+
+### **Font Properties**
+1. **`font-family`**: Specifies the font stack (primary font and fallbacks).
+2. **`font-size`**: Sets the size of the font.
+3. **`font-weight`**: Determines the thickness of text (e.g., `normal`, `bold`, `300`, `700`).
+4. **`font-style`**: Applies italic or oblique styling to text (e.g., `normal`, `italic`, `oblique`).
+5. **`font-variant`**: Enables small caps and other text variants.
+6. **`font-stretch`**: Adjusts the width of characters in variable fonts (e.g., `condensed`, `expanded`).
+7. **`font-variation-settings`**: Customizes the variations in variable fonts, like `wght` for weight.
+8. **`font`**: Shorthand property to set multiple font properties in one line.
+
+### **Text Spacing and Alignment**
+9. **`line-height`**: Defines the vertical space between lines of text.
+10. **`letter-spacing`**: Adjusts space between characters.
+11. **`word-spacing`**: Modifies space between words.
+12. **`text-align`**: Aligns text horizontally (`left`, `right`, `center`, `justify`).
+13. **`vertical-align`**: Aligns text vertically (e.g., `baseline`, `middle`, `sub`, `super`).
+
+### **Text Decoration and Transformation**
+14. **`text-decoration`**: Adds an underline, line-through, or overline to text.
+15. **`text-decoration-line`**: Specifies the type of line for decoration (`underline`, `overline`, `line-through`).
+16. **`text-decoration-style`**: Sets the style of the decoration line (`solid`, `dotted`, `dashed`).
+17. **`text-decoration-color`**: Defines the color of the decoration line.
+18. **`text-transform`**: Adjusts text case (`uppercase`, `lowercase`, `capitalize`).
+
+### **Text Shadow**
+19. **`text-shadow`**: Adds shadow effects to text, useful for adding depth or highlights.
+
+### **Whitespace and Indentation**
+20. **`white-space`**: Controls how whitespace and line breaks within the text are handled (`normal`, `nowrap`, `pre`).
+21. **`text-indent`**: Indents the first line of a paragraph.
+
+### **Text Overflow and Wrapping**
+22. **`text-overflow`**: Determines how text is displayed when it overflows its container (`clip`, `ellipsis`).
+23. **`overflow-wrap`**: Specifies if the browser should insert line breaks within words to prevent overflow (`normal`, `break-word`).
+24. **`word-break`**: Specifies line break behavior within words (`normal`, `break-all`, `keep-all`).
+
+### **Additional Font Features**
+25. **`font-feature-settings`**: Enables advanced font features (like ligatures) in OpenType fonts.
+26. **`font-kerning`**: Adjusts the spacing between characters based on the font’s kerning data.
+27. **`font-language-override`**: Allows for language-specific glyphs in fonts.
+28. **`font-synthesis`**: Controls whether the browser can create fake bold or italic if a style is unavailable.
+
+### **Additional Text Styling Properties**
+29. **`direction`**: Specifies the text direction (`ltr`, `rtl`).
+30. **`unicode-bidi`**: Used with `direction` to support bidirectional text (e.g., `embed`, `isolate`).
+31. **`writing-mode`**: Sets the text flow direction (horizontal, vertical).
+
+These properties let you fine-tune text presentation across different screen sizes, devices, and accessibility needs. If you're building Proctor.css, you could create utilities for these properties based on standard values, like `fw-700` for bold, `fs-lg` for larger font sizes, or `ts-uc` for uppercase transformation. Let me know if you'd like further help with specific implementations! */
