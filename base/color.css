@@ -184,7 +184,7 @@
     --proctor-black-300: rgba(7, 6, 6, 0.300);
     --proctor-black-200: rgba(7, 6, 6, 0.200);
     --proctor-black-100: rgba(7, 6, 6, 0.100);
-    --proctor-black-50:  rgba(7, 6, 6, 0.050);
+    --proctor-black-050:  rgba(7, 6, 6, 0.050);
 
     /* proctor yellow */
     --proctor-yellow-900: rgb(238, 238, 30);
@@ -333,7 +333,304 @@
     --proctor-lightblue-100: rgba(5, 184, 244, 0.100);
     --proctor-lightblue-050: rgba(5, 184, 244, 0.050);
 
+    /* proctor maroon */
+    --proctor-maroon-900: rgb(141, 5, 5);
+    --proctor-maroon-800: rgba(141, 5, 5, 0.800);
+    --proctor-maroon-700: rgba(141, 5, 5, 0.700);
+    --proctor-maroon-600: rgba(141, 5, 5, 0.600);
+    --proctor-maroon-500: rgba(141, 5, 5, 0.500);
+    --proctor-maroon-400: rgba(141, 5, 5, 0.400);
+    --proctor-maroon-300: rgba(141, 5, 5, 0.300);
+    --proctor-maroon-200: rgba(141, 5, 5, 0.200);
+    --proctor-maroon-100: rgba(141, 5, 5, 0.100);
+    --proctor-maroon-050: rgba(141, 5, 5, 0.050);
     
 }
 
+/*............ proctor red in action ............... */
+/* in text */
+.txt-red{
+    color: var(--proctor-red-900);
+}
+.txt-red-900{
+    color: var(--proctor-red-900);
+}
+.txt-red-800{
+    color: var(--proctor-red-800);
+}
+.txt-red-700{
+    color: var(--proctor-red-700);
+}
+.txt-red-600{
+    color: var(--proctor-red-600);
+}
+.txt-red-500{
+    color: var(--proctor-red-500);
+}
+.txt-red-400{
+    color: var(--proctor-red-400);
+}
+.txt-red-300{
+    color: var(--proctor-red-300);
+}
+.txt-red-200{
+    color: var(--proctor-red-200);
+}
+.txt-red-100{
+    color: var(--proctor-red-100);
+}
+.txt-red-50{
+    color: var(--proctor-red-050);
+}
+/* in background */
+.bg-red{
+    background-color: var(--proctor-red-900);
+}
+.bg-red-900{
+    background-color: var(--proctor-red-900);
+}
+.bg-red-800{
+    background-color: var(--proctor-red-800);
+}
+.bg-red-700{
+    background-color: var(--proctor-red-700);
+}
+.bg-red-600{
+    background-color: var(--proctor-red-600);
+}
+.bg-red-500{
+    background-color: var(--proctor-red-500);
+}
+.bg-red-400{
+    background-color: var(--proctor-red-400);
+}
+.bg-red-300{
+    background-color: var(--proctor-red-300);
+}
+.bg-red-200{
+    background-color: var(--proctor-red-200);
+}
+.bg-red-100{
+    background-color: var(--proctor-red-100);
+}
+.bg-red-50{
+    background-color: var(--proctor-red-050);
+}
+/* ................................................ */
 
+
+
+/*............ proctor black in action ............... */
+/* in text */
+.txt-black{
+    color: var(--proctor-black-900);
+}
+.txt-red-black{
+    color: var(--proctor-black-900);
+}
+.txt-black-800{
+    color: var(--proctor-black-800);
+}
+.txt-black-700{
+    color: var(--proctor-black-700);
+}
+.txt-black-600{
+    color: var(--proctor-black-600);
+}
+.txt-black-500{
+    color: var(--proctor-black-500);
+}
+.txt-black-400{
+    color: var(--proctor-black-400);
+}
+.txt-black-300{
+    color: var(--proctor-black-300);
+}
+.txt-black-200{
+    color: var(--proctor-black-200);
+}
+.txt-black-100{
+    color: var(--proctor-black-100);
+}
+.txt-black-50{
+    color: var(--proctor-black-050);
+}
+/* in background */
+.bg-black{
+    background-color: var(--proctor-black-900);
+}
+.bg-black-900{
+    background-color: var(--proctor-black-900);
+}
+.bg-black-800{
+    background-color: var(--proctor-black-800);
+}
+.bg-black-700{
+    background-color: var(--proctor-black-700);
+}
+.bg-black-600{
+    background-color: var(--proctor-black-600);
+}
+.bg-black-500{
+    background-color: var(--proctor-black-500);
+}
+.bg-black-400{
+    background-color: var(--proctor-black-400);
+}
+.bg-black-300{
+    background-color: var(--proctor-black-300);
+}
+.bg-black-200{
+    background-color: var(--proctor-black-200);
+}
+.bg-black-100{
+    background-color: var(--proctor-black-100);
+}
+.bg-black-50{
+    background-color: var(--proctor-black-050);
+}
+/* ................................................ */
+
+
+/*............ proctor yellow in action ............... */
+/* in text */
+.txt-yellow{
+    color: var(--proctor-yellow-900);
+}
+.txt-yellow-900{
+    color: var(--proctor-yellow-900);
+}
+.txt-yellow-800{
+    color: var(--proctor-yellow-800);
+}
+.txt-yellow-700{
+    color: var(--proctor-yellow-700);
+}
+.txt-yellow-600{
+    color: var(--proctor-yellow-600);
+}
+.txt-yellow-500{
+    color: var(--proctor-yellow-500);
+}
+.txt-yellow-400{
+    color: var(--proctor-yellow-400);
+}
+.txt-yellow-300{
+    color: var(--proctor-yellow-300);
+}
+.txt-yellow-200{
+    color: var(--proctor-yellow-200);
+}
+.txt-yellow-100{
+    color: var(--proctor-yellow-100);
+}
+.txt-yellow-50{
+    color: var(--proctor-yellow-050);
+}
+/* in background */
+.bg-yellow{
+    background-color: var(--proctor-yellow-900);
+}
+.bg-yellow-900{
+    background-color: var(--proctor-yellow-900);
+}
+.bg-yellow-800{
+    background-color: var(--proctor-yellow-800);
+}
+.bg-yellow-700{
+    background-color: var(--proctor-yellow-700);
+}
+.bg-yellow-600{
+    background-color: var(--proctor-yellow-600);
+}
+.bg-yellow-500{
+    background-color: var(--proctor-yellow-500);
+}
+.bg-yellow-400{
+    background-color: var(--proctor-yellow-400);
+}
+.bg-yellow-300{
+    background-color: var(--proctor-yellow-300);
+}
+.bg-yellow-200{
+    background-color: var(--proctor-yellow-200);
+}
+.bg-yellow-100{
+    background-color: var(--proctor-yellow-100);
+}
+.bg-yellow-50{
+    background-color: var(--proctor-yellow-050);
+}
+/* ................................................ */
+
+
+/*............ proctor blue in action ............... */
+/* in text */
+.txt-blue{
+    color: var(--proctor-blue-900);
+}
+.txt-blue-900{
+    color: var(--proctor-blue-900);
+}
+.txt-blue-800{
+    color: var(--proctor-blue-800);
+}
+.txt-blue-700{
+    color: var(--proctor-blue-700);
+}
+.txt-yellow-600{
+    color: var(--proctor-blue-600);
+}
+.txt-blue-500{
+    color: var(--proctor-blue-500);
+}
+.txt-blue-400{
+    color: var(--proctor-blue-400);
+}
+.txt-yellow-300{
+    color: var(--proctor-yellow-300);
+}
+.txt-blue-200{
+    color: var(--proctor-blue-200);
+}
+.txt-blue-100{
+    color: var(--proctor-blue-100);
+}
+.txt-blue-50{
+    color: var(--proctor-blue-050);
+}
+/* in background */
+.bg-blue{
+    background-color: var(--proctor-blue-900);
+}
+.bg-blue-900{
+    background-color: var(--proctor-blue-900);
+}
+.bg-blue-800{
+    background-color: var(--proctor-blue-800);
+}
+.bg-blue-700{
+    background-color: var(--proctor-blue-700);
+}
+.bg-blue-600{
+    background-color: var(--proctor-blue-600);
+}
+.bg-blue-500{
+    background-color: var(--proctor-blue-500);
+}
+.bg-blue-400{
+    background-color: var(--proctor-blue-400);
+}
+.bg-blue-300{
+    background-color: var(--proctor-blue-300);
+}
+.bg-blue-200{
+    background-color: var(--proctor-blue-200);
+}
+.bg-blue-100{
+    background-color: var(--proctor-blue-100);
+}
+.bg-blue-50{
+    background-color: var(--proctor-blue-050);
+}
+/* ................................................ */
