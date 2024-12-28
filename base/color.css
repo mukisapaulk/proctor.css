@@ -7,9 +7,11 @@
     --lightcoral: #f08080;
     --indianred: #cd5c5c;
     --crimson: #dc143c;
+    --b-red: #dc3545;
     --firebrik: #b22222;
     --red: #ff0000;
     --darkred: #8b0000;
+    
 
     /* ORANGE COLORS */
     --coral: #ff7f50;
@@ -157,4 +159,181 @@
     --brown: #a52a2a;
     --maroon: #800000;
 
+
+    /* FRAMEWORK MAIN COLORS */
+    /* These colors may chnage in the future */
+    /* proctor red*/
+    --proctor-red-900: rgb(222,20,17);
+    --proctor-red-800: rgba(222, 21, 17, 0.800);
+    --proctor-red-700: rgba(222, 21, 17, 0.700);
+    --proctor-red-600: rgba(222, 21, 17, 0.600);
+    --proctor-red-500: rgba(222, 21, 17, 0.500);
+    --proctor-red-400: rgba(222, 21, 17, 0.400);
+    --proctor-red-300: rgba(222, 21, 17, 0.300);
+    --proctor-red-200: rgba(222, 21, 17, 0.200);
+    --proctor-red-100: rgba(222, 21, 17, 0.100);
+    --proctor-red-50:  rgba(222, 21, 17, 0.050);
+
+    /* proctor black */
+    --proctor-black-900: rgb(7, 6, 6);
+    --proctor-black-800: rgba(7, 6, 6, 0.800);
+    --proctor-black-700: rgba(7, 6, 6, 0.700);
+    --proctor-black-600: rgba(7, 6, 6, 0.600);
+    --proctor-black-500: rgba(7, 6, 6, 0.500);
+    --proctor-black-400: rgba(7, 6, 6, 0.400);
+    --proctor-black-300: rgba(7, 6, 6, 0.300);
+    --proctor-black-200: rgba(7, 6, 6, 0.200);
+    --proctor-black-100: rgba(7, 6, 6, 0.100);
+    --proctor-black-50:  rgba(7, 6, 6, 0.050);
+
+    /* proctor yellow */
+    --proctor-yellow-900: rgb(238, 238, 30);
+    --proctor-yellow-800: rgba(238, 238, 30, 0.800);
+    --proctor-yellow-700: rgba(238, 238, 30, 0.700);
+    --proctor-yellow-600: rgba(238, 238, 30, 0.600);
+    --proctor-yellow-500: rgba(238, 238, 30, 0.500);
+    --proctor-yellow-400: rgba(238, 238, 30, 0.400);
+    --proctor-yellow-300: rgba(238, 238, 30, 0.300);
+    --proctor-yellow-200: rgba(238, 238, 30, 0.200);
+    --proctor-yellow-100: rgba(238, 238, 30, 0.100);
+    --proctor-yellow-050: rgba(238, 238, 30, 0.050);
+
+    /* proctor blue */
+    --proctor-blue-900: rgb(15, 15, 243);
+    --proctor-blue-800: rgba(15, 15, 243, 0.800);
+    --proctor-blue-700: rgba(15, 15, 243, 0.700);
+    --proctor-blue-600: rgba(15, 15, 243, 0.600);
+    --proctor-blue-500: rgba(15, 15, 243, 0.500);
+    --proctor-blue-400: rgba(15, 15, 243, 0.400);
+    --proctor-blue-300: rgba(15, 15, 243, 0.300);
+    --proctor-blue-200: rgba(15, 15, 243, 0.200);
+    --proctor-blue-100: rgba(15, 15, 243, 0.100);
+    --proctor-blue-050: rgba(15, 15, 243, 0.050);
+
+    /* proctor green */
+    --proctor-green-900: rgb(8, 195, 8);
+    --proctor-green-800: rgba(8, 195, 8, 0.800);
+    --proctor-green-700: rgba(8, 195, 8, 0.700);
+    --proctor-green-600: rgba(8, 195, 8, 0.600);
+    --proctor-green-500: rgba(8, 195, 8, 0.500);
+    --proctor-green-400: rgba(8, 195, 8, 0.400);
+    --proctor-green-300: rgba(8, 195, 8, 0.300);
+    --proctor-green-200: rgba(8, 195, 8, 0.200);
+    --proctor-green-100: rgba(8, 195, 8, 0.100);
+    --proctor-green-050: rgba(8, 195, 8, 0.050);
+    
+    /* proctor pink */
+    --proctor-pink-900: rgb(245, 151, 166);
+    --proctor-pink-800: rgba(245, 151, 166, 0.800);
+    --proctor-pink-700: rgba(245, 151, 166, 0.700);
+    --proctor-pink-600: rgba(245, 151, 166, 0.600);
+    --proctor-pink-500: rgba(245, 151, 166, 0.500);
+    --proctor-pink-400: rgba(245, 151, 166, 0.400);
+    --proctor-pink-300: rgba(245, 151, 166, 0.300);
+    --proctor-pink-200: rgba(245, 151, 166, 0.200);
+    --proctor-pink-100: rgba(245, 151, 166, 0.100);
+    --proctor-pink-050: rgba(245, 151, 166, 0.050);
+
+    /* proctor orange */
+    --proctor-orange-900: rgb(238, 120, 9);
+    --proctor-orange-800: rgba(238, 120, 9, 0.800);
+    --proctor-orange-700: rgba(238, 120, 9, 0.700);
+    --proctor-orange-600: rgba(238, 120, 9, 0.600);
+    --proctor-orange-500: rgba(238, 120, 9, 0.500);
+    --proctor-orange-400: rgba(238, 120, 9, 0.400);
+    --proctor-orange-300: rgba(238, 120, 9, 0.300);
+    --proctor-orange-200: rgba(238, 120, 9, 0.200);
+    --proctor-orange-100: rgba(238, 120, 9, 0.100);
+    --proctor-orange-050: rgba(238, 120, 9, 0.050);
+
+    /* proctor gray */
+    --proctor-gray-900: rgb(65, 65, 65);
+    --proctor-gray-800: rgba(65, 65, 65, 0.800);
+    --proctor-gray-700: rgba(65, 65, 65, 0.700);
+    --proctor-gray-600: rgba(65, 65, 65, 0.600);
+    --proctor-gray-500: rgba(65, 65, 65, 0.500);
+    --proctor-gray-400: rgba(65, 65, 65, 0.400);
+    --proctor-gray-300: rgba(65, 65, 65, 0.300);
+    --proctor-gray-200: rgba(65, 65, 65, 0.200);
+    --proctor-gray-100: rgba(65, 65, 65, 0.100);
+    --proctor-gray-050: rgba(65, 65, 65, 0.050);
+
+   /* proctor white */
+   --proctor-white: rgb(255, 255, 255);
+
+   /* proctor brown */
+   --proctor-brown-900: rgb(66, 9, 9);
+   --proctor-brown-800: rgba(66, 9, 9, 0.800);
+   --proctor-brown-700: rgba(66, 9, 9, 0.700);
+   --proctor-brown-600: rgba(66, 9, 9, 0.600);
+   --proctor-brown-500: rgba(66, 9, 9, 0.500);
+   --proctor-brown-400: rgba(66, 9, 9, 0.400);
+   --proctor-brown-300: rgba(66, 9, 9, 0.300);
+   --proctor-brown-200: rgba(66, 9, 9, 0.200);
+   --proctor-brown-100: rgba(66, 9, 9, 0.100);
+   --proctor-brown-050: rgba(66, 9, 9, 0.050);
+   
+   /* proctor teal */
+    --proctor-teal-900: rgb(12, 215, 215);
+    --proctor-teal-800: rgba(12, 215, 215, 0.800);
+    --proctor-teal-700: rgba(12, 215, 215, 0.700);
+    --proctor-teal-600: rgba(12, 215, 215, 0.600);
+    --proctor-teal-500: rgba(12, 215, 215, 0.500);
+    --proctor-teal-400: rgba(12, 215, 215, 0.400);
+    --proctor-teal-300: rgba(12, 215, 215, 0.300);
+    --proctor-teal-200: rgba(12, 215, 215, 0.200);
+    --proctor-teal-100: rgba(12, 215, 215, 0.100);
+    --proctor-teal-050: rgba(12, 215, 215, 0.050);
+
+    /* proctor cyan */
+    --proctor-cyan-900: rgb(21, 253, 253);
+    --proctor-cyan-800: rgba(21, 253, 253, 0.800);
+    --proctor-cyan-700: rgba(21, 253, 253, 0.700);
+    --proctor-cyan-600: rgba(21, 253, 253, 0.600);
+    --proctor-cyan-500: rgba(21, 253, 253, 0.500);
+    --proctor-cyan-400: rgba(21, 253, 253, 0.400);
+    --proctor-cyan-300: rgba(21, 253, 253, 0.300);
+    --proctor-cyan-200: rgba(21, 253, 253, 0.200);
+    --proctor-cyan-100: rgba(21, 253, 253, 0.100);
+    --proctor-cyan-050: rgba(21, 253, 253, 0.050);
+ 
+    /* proctor purple */
+    --proctor-purple-900: rgb(102, 12, 102);
+    --proctor-purple-800: rgba(102, 12, 102, 0.800);
+    --proctor-purple-700: rgba(102, 12, 102, 0.700);
+    --proctor-purple-600: rgba(102, 12, 102, 0.600);
+    --proctor-purple-500: rgba(102, 12, 102, 0.500);
+    --proctor-purple-400: rgba(102, 12, 102, 0.400);
+    --proctor-purple-300: rgba(102, 12, 102, 0.300);
+    --proctor-purple-200: rgba(102, 12, 102, 0.200);
+    --proctor-purple-100: rgba(102, 12, 102, 0.100);
+    --proctor-purple-050: rgba(102, 12, 102, 0.050);
+
+    /* proctor indigo */
+    --proctor-indigo-900: rgb(89, 5, 149);
+    --proctor-indigo-800: rgba(89, 5, 149, 0.800);
+    --proctor-indigo-700: rgba(89, 5, 149, 0.700);
+    --proctor-indigo-600: rgba(89, 5, 149, 0.600);
+    --proctor-indigo-500: rgba(89, 5, 149, 0.500);
+    --proctor-indigo-400: rgba(89, 5, 149, 0.400);
+    --proctor-indigo-300: rgba(89, 5, 149, 0.300);
+    --proctor-indigo-200: rgba(89, 5, 149, 0.200);
+    --proctor-indigo-100: rgba(89, 5, 149, 0.100);
+    --proctor-indigo-050: rgba(89, 5, 149, 0.050);
+ 
+    /* proctor light blue */
+    --proctor-lightblue-900: rgb(5, 184, 244);
+    --proctor-lightblue-800: rgba(5, 184, 244, 0.800);
+    --proctor-lightblue-700: rgba(5, 184, 244, 0.700);
+    --proctor-lightblue-600: rgba(5, 184, 244, 0.600);
+    --proctor-lightblue-500: rgba(5, 184, 244, 0.500);
+    --proctor-lightblue-400: rgba(5, 184, 244, 0.400);
+    --proctor-lightblue-300: rgba(5, 184, 244, 0.300);
+    --proctor-lightblue-200: rgba(5, 184, 244, 0.200);
+    --proctor-lightblue-100: rgba(5, 184, 244, 0.100);
+    --proctor-lightblue-050: rgba(5, 184, 244, 0.050);
+
+    
 }
+
+

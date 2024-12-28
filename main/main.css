@@ -1,4 +1,9 @@
 @import url(../base/reset.css);
-@import url(../base/global.css);
+@import url(../base/display.css);
 @import url(../base/color.css);
-@import url(../base/font.css);
+@import url(../base/global.css);
+@import url(../utils/button.css);
+@import url(../utils/forms.css);
+/* h1{
+    color: var(--);
+} */ 

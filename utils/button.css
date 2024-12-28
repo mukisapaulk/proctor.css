@@ -1,0 +1,23 @@
+/* general button */
+:root{
+    --button-font-size: 15px;
+    --button-padding-left: 15px;
+    --button-padding-right: 15px;
+    --button-padding-button:10px;
+    --button-padding-top: 10px;
+    --button-border-radius: 2px;
+    --button-box-shadow: 2px 2px rgba(0, 0, 0, 0.135);
+}
+button{
+font-size: var(--button-font-size);
+box-shadow: var(--button-box-shadow);
+border-radius: 5px;
+padding-inline: var(--button-padding-left);
+padding-block: var(--button-padding-button);
+margin: 5px;
+}
+.danger-btn{
+    background-color: #E53935;
+    color: var(--white);
+    font-weight: 600;
+}
