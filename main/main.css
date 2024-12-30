@@ -4,6 +4,8 @@
 @import url(../base/global.css);
 @import url(../utils/button.css);
 @import url(../utils/forms.css);
+@import url(../base/spacing.css);
+@import url(../base/typography.css);
 /* h1{
     color: var(--);
 } */ 

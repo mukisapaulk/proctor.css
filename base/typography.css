@@ -1,0 +1,75 @@
+/* proctor text manipulation */
+:root{
+    /* font size */
+    --text-font-size-normal: 1rem;
+    --text-font-size-tiny: 0.625rem;
+    --text-font-size-small: 0.725rem;
+    --text-font-size-medium: 1.5rem;
+    --text-font-size-large: 2rem;
+    --text-font-size-extra: 2.5rem;
+    --text-font-size-excess: 3.5rem;
+    
+}
+/*proctor font size*/
+.txt-small{
+   font-size: var(--text-font-size-small);
+}
+.txt-tiny{
+    font-size: var(--text-font-size-tiny);
+ }
+ .txt-medium{
+    font-size: var(--text-font-size-medium);
+ }
+ .txt-large{
+    font-size: var(--text-font-size-large);
+ }
+ .txt-extra{
+    font-size: var(--text-font-size-extra);
+ }
+.txt-excess{
+    font-size: var(--text-font-size-excess); 
+}
+
+/*proctor font weight*/
+.lighter{
+    font-weight: 100;
+}
+.light{
+    font-weight: 300;
+}
+.normal{
+    font-weight: 400;
+}
+.bold{
+    font-weight: 600;
+}
+.bolder{
+    font-weight: 800;
+}
+
+/* proctor heading */
+/* i prefer my headings to be the same size */
+h1, h2, h3, h4, h5, h6{
+    font-weight: 600;
+    font-size: var(--text-font-size-large);
+}
+
+/* proctor text alignment */
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.start{
+    text-align: start;
+}
+.justify{
+    text-align: justify;
+}
+.end{
+    text-align: end;
+}

@@ -14,7 +14,6 @@ box-shadow: var(--button-box-shadow);
 border-radius: 5px;
 padding-inline: var(--button-padding-left);
 padding-block: var(--button-padding-button);
-margin: 5px;
 }
 .danger-btn{
     background-color: #E53935;
