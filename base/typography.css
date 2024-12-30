@@ -51,12 +51,13 @@
 /* i prefer my headings to be the same size */
 h1, h2, h3, h4, h5, h6{
     font-weight: 600;
+    line-height: 1.3;
     font-size: var(--text-font-size-large);
 }
 
 /* proctor text alignment */
 .center{
-    text-align: center;
+    text-align: center;  
 }
 .left{
     text-align: left;
@@ -72,4 +73,540 @@ h1, h2, h3, h4, h5, h6{
 }
 .end{
     text-align: end;
+}
+/* proctor paragraph */
+p{
+    font-size: var(--text-font-size-normal);
+    line-height: 1.2;
+    font-weight: 500;
+}
+a{
+    color: var(--proctor-blue-900);
+    font-size: var(--text-font-size-normal);
+    text-decoration: none;
+    font-weight: 500;
+    line-height: 1.2;
+}
+a:hover{
+    text-decoration: underline;
+}
+/*proctor text decoration */
+.underdashed{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+.overdashed{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+}
+.acrossdashed{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+}
+.underdotted{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.overdotted{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+}
+.acrossdotted{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+}
+.underline{
+    text-decoration: underline;
+}
+.overline{
+    text-decoration: overline;
+}
+.acrossline{
+    text-decoration: line-through;
+}
+.underwaves{
+    text-decoration: underline;
+    text-decoration-style: wavy;     
+}
+.overwaves{
+    text-decoration: overline ;
+    text-decoration-style: wavy;     
+}
+.acrosswaves{
+    text-decoration: line-through;
+    text-decoration-style: wavy;     
+}
+/* proctor text decoration thickness */
+/* proctor dashed */
+.underdashed-200{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 2px;
+}
+.underdashed-300{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 3px;
+}
+.underdashed-400{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 4px;
+}
+.underdashed-500{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 5px;
+}
+.underdashed-600{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 6px;
+}
+.underdashed-700{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 7px;
+}
+.underdashed-800{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 8px;
+}
+.underdashed-900{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 9px;
+}
+
+.overdashed-200{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 2px;
+}
+.overdashed-300{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 3px;
+}
+.overdashed-400{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 4px;
+}
+.overdashed-500{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 5px;
+}
+.overdashed-600{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 6px;
+}
+.overdashed-700{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 7px;
+}
+.overdashed-800{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 8px;
+}
+.overdashed-900{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 9px;
+}
+
+.acrossdashed-200{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 2px;
+}
+.acrossdashed-300{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 3px;
+}
+.acrossdashed-400{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 4px;
+}
+.acrossdashed-500{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 5px;
+}
+.acrossdashed-600{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 6px;
+}
+.acrossdashed-700{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 7px;
+}
+.acrossdashed-800{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 8px;
+}
+.acrossdashed-900{
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 9px;
+}
+/* proctor dotted */
+.underdotted-200{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 2px;
+}
+.underdotted-300{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+}
+.underdotted-400{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 4px;
+}
+.underdotted-500{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+}
+.underdotted-600{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 6px;
+}
+.underdotted-700{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 7px;
+}
+.underdotted-800{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 8px;
+}
+.underdotted-900{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 9px;
+}
+
+.overdotted-200{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 2px;
+}
+.overdotted-300{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+}
+.overdotted-400{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 4px;
+}
+.overdotted-500{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+}
+.overdotted-600{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 6px;
+}
+.overdotted-700{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 7px;
+}
+.overdotted-800{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 8px;
+}
+.overdotted-900{
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 9px;
+}
+
+.acrossdotted-200{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 2px;
+}
+.acrossdotted-300{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 3px;
+}
+.acrossdotted-400{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 4px;
+}
+.acrossdotted-500{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+}
+.acrossdotted-600{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 6px;
+}
+.acrossdotted-700{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 7px;
+}
+.acrossdotted-800{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 8px;
+}
+.acrossdotted-900{
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 9px;
+}
+
+/* proctor undeline */
+.underline-200{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.underline-300{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+.underline-400{
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+}
+.underline-500{
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+.underline-600{
+    text-decoration: underline;
+    text-decoration-thickness: 6px;
+}
+.underline-700{
+    text-decoration: underline;
+    text-decoration-thickness: 7px;
+}
+.underline-800{
+    text-decoration: underline;
+    text-decoration-thickness: 8px;
+}
+.underline-900{
+    text-decoration: underline;
+    text-decoration-thickness: 9px;
+}
+/* proctor overline */
+.overline-200{
+    text-decoration: overline;
+    text-decoration-thickness: 2px;
+}
+.overline-300{
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+}
+.overline-400{
+    text-decoration: overline;
+    text-decoration-thickness: 4px;
+}
+.overline-500{
+    text-decoration: overline;
+    text-decoration-thickness: 5px;
+}
+.overline-600{
+    text-decoration: overline;
+    text-decoration-thickness: 6px;
+}
+.overline-700{
+    text-decoration: overline;
+    text-decoration-thickness: 7px;
+}
+.overline-800{
+    text-decoration: overline;
+    text-decoration-thickness: 8px;
+}
+.overline-900{
+    text-decoration: overline;
+    text-decoration-thickness: 9px;
+}
+/* proctor acrossline */
+.acrossline-200{
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+}
+.acrossline-300{
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+}
+.acrossline-400{
+    text-decoration: line-through;
+    text-decoration-thickness: 4px;
+}
+.acrossline-500{
+    text-decoration: line-through;
+    text-decoration-thickness: 5px;
+}
+.acrossline-600{
+    text-decoration: line-through;
+    text-decoration-thickness: 6px;
+}
+.acrossline-700{
+    text-decoration: line-through;
+    text-decoration-thickness: 7px;
+}
+.acrossline-800{
+    text-decoration: line-through;
+    text-decoration-thickness: 8px;
+}
+.acrossline-900{
+    text-decoration: line-through;
+    text-decoration-thickness: 9px;
+}
+/* proctor waves */
+.underwaves-200{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 2px;   
+}
+.underwaves-300{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 3px;   
+}
+.underwaves-400{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 4px;   
+}
+.underwaves-500{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 5px;   
+}
+.underwaves-600{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 6px;   
+}
+.underwaves-700{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 7px;   
+}
+.underwaves-800{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 8px;   
+}
+.underwaves-900{
+    text-decoration: underline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 9px;   
+}
+.overwaves-200{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 2px;   
+}
+.overwaves-300{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 3px;   
+}
+.overwaves-400{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 4px;   
+}
+
+.overwaves-500{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 5px;   
+}
+
+.overwaves-600{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 6px;   
+}
+
+.overwaves-700{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 7px;   
+}
+
+.overwaves-800{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 8px;   
+}
+
+.overwaves-900{
+    text-decoration: overline;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 9px;   
+}
+
+.acrosswaves-200{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 2px;   
+}
+.acrosswaves-300{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 3px;   
+}
+.acrosswaves-400{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 4px;   
+}
+.acrosswaves-500{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 5px;   
+}
+.acrosswaves-600{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 6px;   
+}
+.acrosswaves-700{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 7px;   
+}
+.acrosswaves-800{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 8px;   
+}
+.acrosswaves-900{
+    text-decoration: line-through;
+    text-decoration-style: wavy;  
+    text-decoration-thickness: 9px;   
 }
