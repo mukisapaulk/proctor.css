@@ -1,0 +1,421 @@
+@font-face {
+    font-family: '4B';
+    src: url(../assets/fonts/04B_30__.TTF) format('truetype');
+}
+.font-4B{
+    font-family: '4B';
+}
+
+@font-face {
+    font-family: 'adelia';
+    src: url(../assets/fonts/ADELIA.otf) format('opentype');
+}
+.font-adelia{
+    font-family: 'adelia';
+}
+
+@font-face {
+    font-family: 'aeroworld';
+    src: url(../assets/fonts/Aeroworld\ Personal\ Used.otf) format('opentype');
+}
+.font-aeroworld{
+    font-family: 'aeroworld';
+}
+
+@font-face {
+    font-family: 'autography';
+    src: url(../assets/fonts/Autography.otf) format('opentype');
+}
+.font-autography{
+    font-family: 'autography';
+}
+
+@font-face {
+    font-family: 'bake soda' ;
+    src: url(../assets/fonts/Bake\ Soda.otf) format('opentype');
+}
+.font-bakesoda{
+    font-family: 'bake soda';
+}
+
+@font-face {
+    font-family: 'my valentine';
+    src: url(../assets/fonts/Be\ My\ Valentine.otf) format('opentype');
+}
+.font-myvalentine{
+    font-family: 'my valetine';
+}
+
+@font-face {
+    font-family: 'big samurai';
+    src: url(../assets/fonts/Big\ Samurai.ttf) format('truetype');
+}
+.font-bigsamurai{
+    font-family: 'big samurai';
+}
+
+@font-face {
+    font-family: 'blood frozen';
+    src: url(../assets/fonts/Bloody\ Frozen.otf) format('opentype');
+}
+.font-bloodfrozen{
+    font-family: 'blood frozen';
+}
+
+@font-face {
+    font-family: 'brown cake';
+    src: url(../assets/fonts/Brown\ Cake.otf) format('opentype');
+}
+.font-browncake{
+    font-family: 'brown cake';
+}
+
+@font-face {
+    font-family: 'bubblegum';
+    src: url(../assets/fonts/Bubblegum.ttf) format('truetype');
+}
+.font-bubblegum{
+    font-family: 'bubblegum';
+}
+
+@font-face {
+    font-family: 'cakezombie';
+    src: url(../assets/fonts/CakeZombie.otf) format('opentype');
+}
+.font-cakezombie{
+    font-family: 'cakezombie';
+}
+
+@font-face {
+    font-family: 'campus';
+    src: url(../assets/fonts/CAMPUS\ PERSONAL\ USE.ttf) format('truetype');
+}
+.font-campus{
+    font-family: 'campus';
+}
+
+@font-face {
+    font-family: 'CFhalloween';
+    src: url(../assets/fonts/CFHalloween-Regular.ttf) format('truetype');
+}
+.font-CFhalloween{
+    font-family: 'CFhalloween';
+}
+
+@font-face {
+    font-family: 'cheri';
+    src: url(../assets/fonts/CHERI___.TTF) format('truetype');
+}
+.font-cheri{
+    font-family: 'cheri';
+}
+
+@font-face {
+    font-family: 'chinese dragon';
+    src: url(../assets/fonts/ChineseDragon.ttf) format('truetype');
+}
+.font-chinesedragon{
+    font-family: 'chinese dragon';
+}
+
+@font-face {
+    font-family: 'copyduck';
+    src: url(../assets/fonts/Copyduck.otf) format('opentype');
+}
+.font-copyduck{
+    font-family: 'copyduck';
+}
+
+@font-face {
+    font-family: 'gungeon small';
+    src: url(../assets/fonts/enter-the-gungeon-small.ttf) format('truetype');
+}
+.font-gungeonsmall{
+    font-family: 'gungeon small';
+}
+
+@font-face {
+    font-family: 'frightmare';
+    src: url(../assets/fonts/Frightmare.ttf) format('truetype');
+}
+.font-frightmare{
+    font-family: 'frightmare';
+}
+
+@font-face {
+    font-family: 'squid game';
+    src: url(../assets/fonts/Game\ Of\ Squids.otf) format('opentype');
+}
+.font-squidgame{
+    font-family: 'squid game';
+}
+
+@font-face {
+    font-family: 'go';
+    src: url(../assets/fonts/go3v2.ttf) format('truetype');
+}
+.font-go{
+    font-family: 'go';
+}
+
+@font-face {
+    font-family: 'harukaze';
+    src: url(../assets/fonts/Harukaze.otf) format('opentype');
+}
+.font-harukaze{
+    font-family: 'harukaze';
+}
+
+@font-face {
+    font-family: 'wawa';
+    src: url(../assets/fonts/History\ of\ Wawa.otf) format('opentype');
+}
+.font-wawa{
+    font-family: 'wawa';
+}
+
+@font-face {
+    font-family: 'japanese 3017';
+    src: url(../assets/fonts/Japanese\ 3017.otf) format('opentype');
+}
+.font-japanese3017{
+    font-family: 'japanese 3017';
+}
+
+@font-face {
+    font-family: 'karate';
+    src: url(../assets/fonts/Karate.ttf) format('truetype');
+}
+.font-karate{
+    font-family: 'karate';
+}
+
+@font-face {
+    font-family: 'kinkee';
+    src: url(../assets/fonts/KINKEE__.TTF) format('truetype');
+}
+.font-kinkee{
+    font-family: 'kinkee';
+}
+
+@font-face {
+    font-family: 'lovelady';
+    src: url(../assets/fonts/LoveLadyPersonalUse.ttf) format('truetype');
+}
+.font-lovelady{
+    font-family: 'lovelady';
+}
+
+@font-face {
+    font-family: 'magic sound';
+    src: url(../assets/fonts/Magic\ Sound.ttf) format('truetype');
+}
+.font-magicsound{
+    font-family: 'magic sound';
+}
+
+@font-face {
+    font-family: 'manga';
+    src: url(../assets/fonts/Manga\ Style.ttf) format('truetype');
+}
+.font-manga{
+    font-family: 'manga';
+}
+
+@font-face {
+    font-family: 'love song';
+    src: url(../assets/fonts/Mf\ Love\ Song.ttf) format('truetype');
+}
+.font-lovesong{
+    font-family: 'love song';
+}
+
+@font-face {
+    font-family: 'mickey mouse';
+    src: url(../assets/fonts/MickeyMouse_PERSONAL_USE_ONLY.otf) format('opentype');
+}
+.font-mickeymouse{
+    font-family: 'mickey mouse';
+}
+
+@font-face {
+    font-family: 'midnght minutes';
+    src: url(../assets/fonts/MidnightMinutes_DEMO.otf) format('opentype');
+}
+.font-midnightminutes{
+    font-family: 'midnight minutes';
+}
+
+@font-face {
+    font-family: 'minecraft';
+    src: url(../assets/fonts/Minecraft.ttf) format('truetype');
+}
+.font-minecraft{
+    font-family: 'minecraft';
+}
+
+@font-face {
+    font-family: 'coffee';
+    src: url(../assets/fonts/Newyear\ Coffee.otf) format('opentype');
+}
+.font-coffee{
+    font-family: 'coffee';
+}
+
+@font-face {
+    font-family: 'googoo';
+    src: url(../assets/fonts/Newyear\ Goo.otf) format('opentype');
+}
+.font-googoo{
+    font-family: 'googoo';
+}
+
+@font-face {
+    font-family: 'kibuuka';
+    src: url(../assets/fonts/Paul\ Jackson_personal\ use.ttf) format('opentype');
+}
+.font-kibuuka{
+    font-family: 'kibuuka';
+}
+
+@font-face {
+    font-family: 'pumpkin night';
+    src: url(../assets/fonts/Pumpkin\ Night.ttf) format('truetype');
+}
+.font-pumpkinnight{
+    font-family: 'pumpkin night';
+}
+
+@font-face {
+    font-family: 'sawer';
+    src: url(../assets/fonts/Sawer.otf) format('opentype');
+}
+.font-sawer{
+    font-family: 'sawer';
+}
+
+@font-face {
+    font-family: 'scary halloween';
+    src: url(../assets/fonts/Scary\ Halloween\ Font.ttf) format('truetype');
+}
+.font-scaryhalloween{
+    font-family: 'scary halloween';
+}
+
+@font-face {
+    font-family: 'sleepy mood';
+    src: url(../assets/fonts/Sleepy\ Moody.otf) format('opentype');
+}
+.font-sleepymood{
+    font-family: 'sleepy mood';
+}
+
+@font-face {
+    font-family: 'sofye';
+    src: url(../assets/fonts/Sofye\ Demo.ttf) format('truetype');
+}
+.font-sofye{
+    font-family: 'sofye';
+}
+
+@font-face {
+    font-family: 'square game';
+    src: url(../assets/fonts/Square\ Game.otf) format('opentype');
+}
+.font-squaregame{
+    font-family: 'square game';
+}
+
+@font-face {
+    font-family: 'starborn';
+    src: url(../assets/fonts/Starborn.otf) format('opentype');
+}
+.font-starborn{
+    font-family: 'starborn';
+}
+
+@font-face {
+    font-family: 'super sense';
+    src: url(../assets/fonts/Super\ Sense.ttf) format('truetype');
+}
+.font-supersense{
+    font-family: 'super sense';
+}
+
+@font-face {
+    font-family: 'super mario';
+    src: url(../assets/fonts/SuperMario256.ttf) format('truetype');
+}
+.font-supermario{
+    font-family: 'super mario';
+}
+@font-face {
+    font-family: 'vultures';
+    src: url(../assets/fonts/Taken\ by\ Vultures\ Alternates\ Demo.otf) format('opentype');
+}
+.font-vultures{
+    font-family: 'vultures';
+}
+
+@font-face {
+    font-family: 'valentine';
+    src: url(../assets/fonts/Valentine.ttf) format('truetype');
+}
+.font-valentine{
+    font-family: 'valentine';
+}
+
+@font-face {
+    font-family: 'winter half';
+    src: url(../assets/fonts/Winter\ Half.otf) format('opentype');
+}
+.font-winterhalf{
+    font-family: 'winter half';
+}
+
+@font-face {
+    font-family: 'winter minie';
+    src: url(../assets/fonts/Winter\ Minie.otf) format('opentype');
+}
+.font-winterminie{
+    font-family: 'winter minie';
+}
+
+@font-face {
+    font-family: 'winter prime';
+    src: url(../assets/fonts/Winter\ Prime\ Monoline.otf) format('opentype');
+}
+.font-winterprime{
+    font-family: 'winter prime';
+}
+
+@font-face {
+    font-family: 'wonderly';
+    src: url(../assets/fonts/Wonderly.otf) format('opentype');
+}
+.font-wonderly{
+    font-family: 'wonderly';
+}
+
+@font-face {
+    font-family: 'zenzai itachi';
+    src: url(../assets/fonts/Zenzai\ Itachi.ttf) format('truetype');
+}
+.font-zenzai{
+    font-family: 'zenzai itachi';
+}
+
+@font-face {
+    font-family: 'zombie brush';
+    src: url(../assets/fonts/Zombie\ Brush.otf) format('opentype');
+}
+.font-zombiebrush{
+    font-family: 'zombie brush';
+}
+@font-face {
+    font-family: 'zombie zone';
+    src: url(../assets/fonts/Zombie\ Zone.ttf) format('truetype');
+}
+.font-zombiezone{
+    font-family: 'zombie zone';
+}

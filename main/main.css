@@ -7,6 +7,13 @@
 @import url(../base/spacing.css);
 @import url(../base/typography.css);
 @import url(../base/list.css);
+@import url(../base/font.css);
+/* TESTING THE FONTS */
 /* h1{
-    color: var(--);
-} */ 
+    font-family: 'minecraft';
+} */
+
+.stroked-text {
+    -webkit-text-stroke: 1px black; /* Stroke width and color */
+    color: white; /* Text fill color (optional) */
+ }
