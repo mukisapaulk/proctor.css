@@ -1,0 +1,13 @@
+/* .square{
+    list-style-type: square;
+}
+.dot{
+    list-style-type: disc;
+}
+.circle{
+    list-style: circle;
+} */
+
+ul{
+    list-style-type: disc;
+}

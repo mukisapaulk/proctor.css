@@ -1,6 +1,6 @@
 /*...............DISPLAYING ELEMENTS.................*/
 /*block */
-address, 
+/* address, 
 blockquote, 
 dd, 
 div, 
@@ -35,7 +35,7 @@ figure,
 footer, 
 header{
     display: block;
-}
+} */
 
 /* inline */
 br, 
