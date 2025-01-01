@@ -382,6 +382,28 @@
 .txt-red-50{
     color: var(--proctor-red-050);
 }
+/* proctor stoke color */
+/**********************red*************************/
+/* red 900 */
+.stroke-red{
+    -webkit-text-stroke: 1px var(--proctor-red-900);
+}
+.stroke-1-red{
+    -webkit-text-stroke: 1px var(--proctor-red-900);
+}
+.stroke-2-red{
+    -webkit-text-stroke: 2px var(--proctor-red-900);
+}
+.stroke-3-red{
+    -webkit-text-stroke: 3px var(--proctor-red-900);
+}
+.stroke-4-red{
+    -webkit-text-stroke: 4px var(--proctor-red-900);
+}
+.stroke-5-red{
+    -webkit-text-stroke: 5px var(--proctor-red-900);
+}
+/*************************************************/
 /* in background */
 .bg-red{
     background-color: var(--proctor-red-900);
@@ -455,6 +477,26 @@
 .txt-black-50{
     color: var(--proctor-black-050);
 }
+/* proctor stroke black */
+.stroke-black{
+    -webkit-text-stroke: 1px var(--proctor-black-900);
+}
+.stroke-1-black{
+    -webkit-text-stroke: 1px var(--proctor-black-900);
+}
+.stroke-2-black{
+    -webkit-text-stroke: 2px var(--proctor-black-900);
+}
+.stroke-3-black{
+    -webkit-text-stroke: 3px var(--proctor-black-900);
+}
+.stroke-4-black{
+    -webkit-text-stroke: 4px var(--proctor-black-900);
+}
+.stroke-5-black{
+    -webkit-text-stroke: 5px var(--proctor-black-900);
+}
+
 /* in background */
 .bg-black{
     background-color: var(--proctor-black-900);
@@ -526,6 +568,25 @@
 }
 .txt-yellow-50{
     color: var(--proctor-yellow-050);
+}
+/* proctor stroke black */
+.stroke-yellow{
+    -webkit-text-stroke: 1px var(--proctor-yellow-900);
+}
+.stroke-1-yellow{
+    -webkit-text-stroke: 1px var(--proctor-yellow-900);
+}
+.stroke-2-yellow{
+    -webkit-text-stroke: 2px var(--proctor-yellow-900);
+}
+.stroke-3-yellow{
+    -webkit-text-stroke: 3px var(--proctor-yellow-900);
+}
+.stroke-4-yellow{
+    -webkit-text-stroke: 4px var(--proctor-yellow-900);
+}
+.stroke-5-yellow{
+    -webkit-text-stroke: 5px var(--proctor-yellow-900);
 }
 /* in background */
 .bg-yellow{
@@ -599,6 +660,27 @@
 .txt-blue-50{
     color: var(--proctor-blue-050);
 }
+/* proctor stroke blue */
+.stroke-blue{
+    -webkit-text-stroke: 1px var(--proctor-blue-900);
+}
+.stroke-1-blue{
+    -webkit-text-stroke: 1px var(--proctor-blue-900);
+}
+.stroke-2-blue{
+    -webkit-text-stroke: 2px var(--proctor-blue-900);
+}
+.stroke-3-blue{
+    -webkit-text-stroke: 3px var(--proctor-blue-900);
+}
+.stroke-4-blue{
+    -webkit-text-stroke: 4px var(--proctor-blue-900);
+}
+.stroke-5-blue{
+    -webkit-text-stroke: 5px var(--proctor-blue-900);
+}
+
+
 /* in background */
 .bg-blue{
     background-color: var(--proctor-blue-900);
@@ -669,6 +751,25 @@
 }
 .txt-green-50{
     color: var(--proctor-green-050);
+}
+/* proctor stroke green */
+.stroke-green{
+    -webkit-text-stroke: 1px var(--proctor-green-900);
+}
+.stroke-1-green{
+    -webkit-text-stroke: 1px var(--proctor-green-900);
+}
+.stroke-2-green{
+    -webkit-text-stroke: 2px var(--proctor-green-900);
+}
+.stroke-3-green{
+    -webkit-text-stroke: 3px var(--proctor-green-900);
+}
+.stroke-4-green{
+    -webkit-text-stroke: 4px var(--proctor-green-900);
+}
+.stroke-5-green{
+    -webkit-text-stroke: 5px var(--proctor-green-900);
 }
 /* in background */
 .bg-green{
@@ -742,6 +843,25 @@
 .txt-pink-50{
     color: var(--proctor-pink-050);
 }
+/* proctor stroke pink */
+.stroke-pink{
+    -webkit-text-stroke: 1px var(--proctor-pink-900);
+}
+.stroke-1-pink{
+    -webkit-text-stroke: 1px var(--proctor-pink-900);
+}
+.stroke-2-pink{
+    -webkit-text-stroke: 2px var(--proctor-pink-900);
+}
+.stroke-3-pink{
+    -webkit-text-stroke: 3px var(--proctor-pink-900);
+}
+.stroke-4-pink{
+    -webkit-text-stroke: 4px var(--proctor-pink-900);
+}
+.stroke-5-pink{
+    -webkit-text-stroke: 5px var(--proctor-pink-900);
+}
 /* in background */
 .bg-pink{
     background-color: var(--proctor-pink-900);
@@ -813,6 +933,25 @@
 }
 .txt-orange-50{
     color: var(--proctor-orange-050);
+}
+/* proctor stroke orange */
+.stroke-orange{
+    -webkit-text-stroke: 1px var(--proctor-orange-900);
+}
+.stroke-1-orange{
+    -webkit-text-stroke: 1px var(--proctor-orange-900);
+}
+.stroke-2-orange{
+    -webkit-text-stroke: 2px var(--proctor-orange-900);
+}
+.stroke-3-orange{
+    -webkit-text-stroke: 3px var(--proctor-orange-900);
+}
+.stroke-4-orange{
+    -webkit-text-stroke: 4px var(--proctor-orange-900);
+}
+.stroke-5-orange{
+    -webkit-text-stroke: 5px var(--proctor-orange-900);
 }
 /* in background */
 .bg-orange{
@@ -887,6 +1026,25 @@
 .txt-gray-50{
     color: var(--proctor-gray-050);
 }
+/* proctor stroke gray */
+.stroke-gray{
+    -webkit-text-stroke: 1px var(--proctor-gray-900);
+}
+.stroke-1-gray{
+    -webkit-text-stroke: 1px var(--proctor-gray-900);
+}
+.stroke-2-gray{
+    -webkit-text-stroke: 2px var(--proctor-gray-900);
+}
+.stroke-3-gray{
+    -webkit-text-stroke: 3px var(--proctor-gray-900);
+}
+.stroke-4-gray{
+    -webkit-text-stroke: 4px var(--proctor-gray-900);
+}
+.stroke-5-gray{
+    -webkit-text-stroke: 5px var(--proctor-gray-900);
+}
 /* in background */
 .bg-gray{
     background-color: var(--proctor-gray-900);
@@ -959,6 +1117,25 @@
 .txt-brown-50{
     color: var(--proctor-brown-050);
 }
+/* proctor stroke brown */
+.stroke-brown{
+    -webkit-text-stroke: 1px var(--proctor-brown-900);
+}
+.stroke-1-brown{
+    -webkit-text-stroke: 1px var(--proctor-brown-900);
+}
+.stroke-2-brown{
+    -webkit-text-stroke: 2px var(--proctor-brown-900);
+}
+.stroke-3-brown{
+    -webkit-text-stroke: 3px var(--proctor-brown-900);
+}
+.stroke-4-brown{
+    -webkit-text-stroke: 4px var(--proctor-brown-900);
+}
+.stroke-5-brown{
+    -webkit-text-stroke: 5px var(--proctor-brown-900);
+}
 /* in background */
 .bg-brown{
     background-color: var(--proctor-brown-900);
@@ -1000,6 +1177,25 @@
 .txt-white{
     color: var(--proctor-white);
 }
+/* proctor stroke white */
+.stroke-white{
+    -webkit-text-stroke: 1px var(--proctor-white-900);
+}
+.stroke-1-white{
+    -webkit-text-stroke: 1px var(--proctor-white-900);
+}
+.stroke-2-white{
+    -webkit-text-stroke: 2px var(--proctor-white-900);
+}
+.stroke-3-white{
+    -webkit-text-stroke: 3px var(--proctor-white-900);
+}
+.stroke-4-white{
+    -webkit-text-stroke: 4px var(--proctor-white-900);
+}
+.stroke-5-white{
+    -webkit-text-stroke: 5px var(--proctor-white-900);
+}
 .bg-white{
     background-color: var(--proctor-white);
 }
@@ -1040,6 +1236,25 @@
 }
 .txt-teal-50{
     color: var(--proctor-teal-050);
+}
+/* proctor stroke teal */
+.stroke-teal{
+    -webkit-text-stroke: 1px var(--proctor-teal-900);
+}
+.stroke-1-teal{
+    -webkit-text-stroke: 1px var(--proctor-teal-900);
+}
+.stroke-2-teal{
+    -webkit-text-stroke: 2px var(--proctor-teal-900);
+}
+.stroke-3-teal{
+    -webkit-text-stroke: 3px var(--proctor-teal-900);
+}
+.stroke-4-teal{
+    -webkit-text-stroke: 4px var(--proctor-teal-900);
+}
+.stroke-5-teal{
+    -webkit-text-stroke: 5px var(--proctor-teal-900);
 }
 /* in background */
 .bg-teal{
@@ -1113,6 +1328,25 @@
 .txt-cyan-50{
     color: var(--proctor-cyan-050);
 }
+/* proctor stroke cyan */
+.stroke-cyan{
+    -webkit-text-stroke: 1px var(--proctor-cyan-900);
+}
+.stroke-1-cyan{
+    -webkit-text-stroke: 1px var(--proctor-cyan-900);
+}
+.stroke-2-cyan{
+    -webkit-text-stroke: 2px var(--proctor-cyan-900);
+}
+.stroke-3-cyan{
+    -webkit-text-stroke: 3px var(--proctor-cyan-900);
+}
+.stroke-4-cyan{
+    -webkit-text-stroke: 4px var(--proctor-cyan-900);
+}
+.stroke-5-cyan{
+    -webkit-text-stroke: 5px var(--proctor-cyan-900);
+}
 /* in background */
 .bg-cyan{
     background-color: var(--proctor-cyan-900);
@@ -1184,6 +1418,25 @@
 }
 .txt-purple-50{
     color: var(--proctor-purple-050);
+}
+/* proctor stroke purple */
+.stroke-purple{
+    -webkit-text-stroke: 1px var(--proctor-purple-900);
+}
+.stroke-1-purple{
+    -webkit-text-stroke: 1px var(--proctor-purple-900);
+}
+.stroke-2-purple{
+    -webkit-text-stroke: 2px var(--proctor-purple-900);
+}
+.stroke-3-purple{
+    -webkit-text-stroke: 3px var(--proctor-purple-900);
+}
+.stroke-4-purple{
+    -webkit-text-stroke: 4px var(--proctor-purple-900);
+}
+.stroke-5-purple{
+    -webkit-text-stroke: 5px var(--proctor-purple-900);
 }
 /* in background */
 .bg-purple{
@@ -1257,6 +1510,25 @@
 .txt-indigo-50{
     color: var(--proctor-indigo-050);
 }
+/* proctor stroke indigo */
+.stroke-indigo{
+    -webkit-text-stroke: 1px var(--proctor-indigo-900);
+}
+.stroke-1-indigo{
+    -webkit-text-stroke: 1px var(--proctor-indigo-900);
+}
+.stroke-2-indigo{
+    -webkit-text-stroke: 2px var(--proctor-indigo-900);
+}
+.stroke-3-indigo{
+    -webkit-text-stroke: 3px var(--proctor-indigo-900);
+}
+.stroke-4-indigo{
+    -webkit-text-stroke: 4px var(--proctor-indigo-900);
+}
+.stroke-5-indigo{
+    -webkit-text-stroke: 5px var(--proctor-indigo-900);
+}
 /* in background */
 .bg-indigo{
     background-color: var(--proctor-indigo-900);
@@ -1328,6 +1600,26 @@
 .txt-lightblue-50{
     color: var(--proctor-lightblue-050);
 }
+/* proctor stroke lightblue */
+.stroke-lightblue{
+    -webkit-text-stroke: 1px var(--proctor-lightblue-900);
+}
+.stroke-1-lightblue{
+    -webkit-text-stroke: 1px var(--proctor-lightblue-900);
+}
+.stroke-2-lightblue{
+    -webkit-text-stroke: 2px var(--proctor-lightblue-900);
+}
+.stroke-3-lightblue{
+    -webkit-text-stroke: 3px var(--proctor-lightblue-900);
+}
+.stroke-4-lightblue{
+    -webkit-text-stroke: 4px var(--proctor-lightblue-900);
+}
+.stroke-5-lightblue{
+    -webkit-text-stroke: 5px var(--proctor-lightblue-900);
+}
+
 /* in background */
 .bg-lightblue{
     background-color: var(--proctor-lightblue-900);
@@ -1400,6 +1692,25 @@
 .txt-maroon-50{
     color: var(--proctor-maroon-050);
 }
+/* proctor stroke maroon */
+.stroke-maroon{
+    -webkit-text-stroke: 1px var(--proctor-maroon-900);
+}
+.stroke-1-maroon{
+    -webkit-text-stroke: 1px var(--proctor-maroon-900);
+}
+.stroke-2-maroon{
+    -webkit-text-stroke: 2px var(--proctor-maroon-900);
+}
+.stroke-3-maroon{
+    -webkit-text-stroke: 3px var(--proctor-maroon-900);
+}
+.stroke-4-maroon{
+    -webkit-text-stroke: 4px var(--proctor-maroon-900);
+}
+.stroke-5-maroon{
+    -webkit-text-stroke: 5px var(--proctor-maroon-900);
+}
 /* in background */
 .bg-maroon{
     background-color: var(--proctor-maroon-900);
@@ -1435,4 +1746,3 @@
     background-color: var(--proctor-maroon4-050);
 }
 /* ................................................ */
-
