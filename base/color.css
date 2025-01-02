@@ -447,7 +447,7 @@
 .txt-black{
     color: var(--proctor-black-900);
 }
-.txt-red-black{
+.txt-black-900{
     color: var(--proctor-black-900);
 }
 .txt-black-800{
@@ -569,7 +569,7 @@
 .txt-yellow-50{
     color: var(--proctor-yellow-050);
 }
-/* proctor stroke black */
+/* proctor stroke yellow */
 .stroke-yellow{
     -webkit-text-stroke: 1px var(--proctor-yellow-900);
 }
@@ -679,8 +679,6 @@
 .stroke-5-blue{
     -webkit-text-stroke: 5px var(--proctor-blue-900);
 }
-
-
 /* in background */
 .bg-blue{
     background-color: var(--proctor-blue-900);
